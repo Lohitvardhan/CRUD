@@ -1,6 +1,6 @@
 # CRUD
 node CRUD application by using express.js and mongodb.
-# To Run this project Clone it and install modules using
+# To Run this project install  necessary modules in vs code terminal by using
 npm install
-# Create config.env file and create PORT and MONGO_URI Variable and specify Value to execute just type
+# Create config.env file and create PORT and MONGO_URI Variable(for connecting to database)
 npm start
